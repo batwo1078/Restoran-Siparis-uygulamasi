@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjEATBqX66ExZlQMM0F69+o/OnbJ9X2HtJMPH6uPmrX7KpLUYAWXV/efJJJcJ2pxlxKnhjvBgjyL0eANKop8bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batuh\\Desktop\\RestoranSiparisYeni\\RestoranSiparisYeni\\RestoranSiparisYeni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batuh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
